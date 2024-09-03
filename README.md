@@ -1,4 +1,4 @@
-# RICHIE_MD-HUB
+i# RICHIE_MD-HUB
 <h1 align="center"> RICHIE 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
   
@@ -87,8 +87,4 @@
 
 ***
 ### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds from his bot & Ideas.
-- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Brotherhood. 
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **RICHIE-MD**
 
