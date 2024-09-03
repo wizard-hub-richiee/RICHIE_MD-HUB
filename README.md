@@ -19,7 +19,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/wizard-hub-richiee/RICHIE_MD-HUB/fork) It***
 
 ***2.`GET SESSION_ID USING`***
 [`QR SCANNER`](https://the-flash-scanner.onrender.com) OR [`PAIRING CODE`](https://king-france.vercel.app)
@@ -52,7 +52,7 @@
 - <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 **4. Join our telegram Channel and watch tutorials on how to deploy**
-- <a href="https://t.me/france_king1"><img title="Author" src="https://img.shields.io/badge/JOIN NOW-black?style=for-the-badge&logo=Telegram"></a>
+- <a href="https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j"><img title="Author" src="https://img.shields.io/badge/JOIN NOW-green?style=for-the-badge&logo=WHATSAPP"></a>
 
 
 
