@@ -76,13 +76,13 @@
 
 #### SUPPORT THE PROJECT 
 1. **JOIN OUR SUPPORT GROUP**
-- <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM" target="_blank">
+- <a href="https://chat.whatsapp.com/HRn1EEb7GikIkAb0IDqzRi" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN NOW 🚀 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
 2. **FOLLOW OUR WHATSAPP CHANNEL**
 
-- <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P" target="_blank">
+- <a href="https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j" target="_blank">
     <img alt="CLICK HERE " src="https://img.shields.io/badge/ FOLLOW NOW  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -92,5 +92,5 @@
 - [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds from his bot & Ideas.
 - [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Brotherhood. 
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **RICHIE-MD**
 
