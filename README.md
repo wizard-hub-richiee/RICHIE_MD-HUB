@@ -51,7 +51,7 @@
 **3.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
 - <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-**4. Join our telegram Channel and watch tutorials on how to deploy**
+**4. Join our Whatsapp Channel and watch tutorials on how to deploy**
 - <a href="https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j"><img title="Author" src="https://img.shields.io/badge/JOIN NOW-green?style=for-the-badge&logo=WHATSAPP"></a>
 
 
@@ -67,9 +67,7 @@
 
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- <a href="https://instagram.com/france.king1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
-- OR 
-- <a href="https://wa.me/254742063632" target="_blank">
+- <a href="https://wa.me/254740479599" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
