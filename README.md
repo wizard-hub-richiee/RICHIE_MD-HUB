@@ -12,9 +12,7 @@
 <a href="(https://github.com/wizard-hub-richiee/RICHIE_MD-HUB)"><img title="Author" src="https://img.shields.io/badge/RICHIE_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/wizard-hub-richiee/RICHIE_MD-HUB"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="[https://github.com/wizard-hub-richiee/RICHIE_MD-HUB/]"><img title=
-  
+<a href="https://github.com/wizard-hub-richiee/RICHIE_MD-HUB"><img
 ***
 
 #### SETUP 
