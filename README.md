@@ -9,11 +9,11 @@
     <img alt="RICHIE_MD" width="700" height="300" src="https://telegra.ph/file/1e45c9ea277cacf38f310.jpg">
 <p align="center">
 <p align="center">
-<a href="(https://github.com/wizard-hub-richiee/RICHIE_MD-HUB)"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="(https://github.com/wizard-hub-richiee/RICHIE_MD-HUB)"><img title="Author" src="https://img.shields.io/badge/RICHIE_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/wizard-hub-richiee/RICHIE_MD-HUB"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="[https://github.com/wizard-hub-richiee/RICHIE_MD-HUB/]"><img title="STARS"
+<a href="[https://github.com/wizard-hub-richiee/RICHIE_MD-HUB/]"><img title=
   
 ***
 
